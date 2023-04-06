@@ -3,7 +3,7 @@ Setup react project with webpack and typescript
 
 # Install dependencies
 cd react-webpack
-npm install
+&& npm install
 
 # Run dev server
 npm run start
