@@ -1,4 +1,4 @@
-# react-webpack
+# React Typescript Webpack
 Setup react project with webpack and typescript
 
 # Install dependencies
